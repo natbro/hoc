@@ -1,0 +1,12 @@
+/* 
+  Localizable.strings
+
+  Copyright (c) 2014 code.org. All rights reserved.
+*/
+
+"kOK" = "OK";
+"kSettings" = "Settings";
+"kCancel" = "Cancel";
+
+"kNoNetworkTitle" = "Drat, Can't Reach Code.org!";
+"kNoNetworkMessage" = "Hour of Code needs to talk to Code.org over the internet but it can't! Please check your network settings or try again.";
